@@ -10,6 +10,39 @@ apimock=(function(){
 	 {author:"maryweyland","points":[{"x":140,"y":140},{"x":115,"y":115}],"name":"gear2"}];
 
 
+	mockdata["juan"] = [
+		{
+			author: "juan",
+			name: "estrella",
+			points: [
+				{x: 250, y: 50},
+				{x: 300, y: 200},
+				{x: 400, y: 200},
+				{x: 320, y: 280},
+				{x: 350, y: 400},
+				{x: 250, y: 330},
+				{x: 150, y: 400},
+				{x: 180, y: 280},
+				{x: 100, y: 200},
+				{x: 200, y: 200},
+				{x: 250, y: 50},
+			]
+		},
+		{
+			author: "juan",
+			name: "cuadrado",
+			points: [
+				{x: 100, y: 100},
+				{x: 400, y: 100},
+				{x: 400, y: 400},
+				{x: 100, y: 400},
+				{x: 100, y: 100}
+			]
+		}
+	];
+	
+
+
 	return {
 		getBlueprintsByAuthor:function(authname,callback){
 			callback(
