@@ -1,6 +1,6 @@
 var app = (function () {
 
-    var useMock = true; // <- cambia a false para usar API real
+    var useMock = false; // <- cambia a false para usar API real
     var api = useMock ? apimock : apiclient;
 
     var author = "";

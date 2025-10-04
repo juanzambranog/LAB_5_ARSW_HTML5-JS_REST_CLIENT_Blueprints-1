@@ -465,3 +465,14 @@
 
 
 14. Revise la [documentación y ejemplos de los estilos de Bootstrap](https://v4-alpha.getbootstrap.com/examples/) (ya incluidos en el ejercicio), agregue los elementos necesarios a la página para que sea más vistosa, y más cercana al mock dado al inicio del enunciado.
+
+
+### **Desplegamos el proyecto en Azure, en una Web App**
+
+![alt text](/img/image-16.png)
+
+    restclient-hve6daaxe3h3dvag.westeurope-01.azurewebsites.net
+
+![alt text](/img/image-17.png)    
+![alt text](/img/image-18.png)
+![alt text](/img/image-19.png)

@@ -1,0 +1,4 @@
+{
+    "appService.preDeployTask": "package:blueprints-api",
+    "appService.deploySubpath": "target/blueprints-api-0.0.1-SNAPSHOT.jar"
+}
